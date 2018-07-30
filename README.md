@@ -19,6 +19,6 @@ El curso tiene una duración de 5 semanas, cuya temario por semana es el siguien
 - T. Hastie, R. Tibshirani, J.Friedman.**The Elements of Statistical Learning:Data Mining, Inference, and Prediction**. 2o edition, Springer, 2009
 - Christopher M. Bishop. **Pattern Recognition and Machine Learning**. Springer 2006
 
-Requerimientos mínimos: Python 3 y las librerías numpy, pandas, matplotlib, seaborn y scikit-learn
+**Requerimientos mínimos:** Python 3 y las librerías numpy, pandas, matplotlib, seaborn y scikit-learn
 
 Cualquier comentario sobre el curso, podéis escribir a jrasero.daparte@gmail.com
