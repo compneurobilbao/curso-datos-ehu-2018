@@ -10,7 +10,7 @@ El curso tiene una duración de 5 semanas, cuya temario por semana es el siguien
 1. Introducción al Machine Learning (ML)
 2. Aprendizaje Supervisado I. Regresión
 3. Aprendizaje Supervisado II Clasificación
-4. Selección del modelo e hiperparametros y su evaluación
+4. Selección del modelo e hiperparámetros y su evaluación
 5. Aprendizaje no Supervisado
 
 ### Referencias del curso
