@@ -1,4 +1,4 @@
-# Curso Análisis, predicción y clasificación de datos biomédicos
+# Curso análisis, predicción y clasificación de datos biomédicos
 
 Introducción al Machine Learning en biomedicina. Curso impartido en la Universidad del País Vasco por parte de miembros del grupo de neuroimagen del Instituto de Investigación Sanitaria Biocruces Bizkaia.
 
