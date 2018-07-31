@@ -21,6 +21,6 @@ El curso tiene una duración de 5 semanas, cuya temario por semana es el siguien
 
 **Requerimientos mínimos:** Python 3 y las librerías numpy, pandas, matplotlib, seaborn y scikit-learn
 
-*Nota: Todas las datasets usadas son de dominio público, bien porque están incluidas en las diferentes librerías y plataformas de estadística y machine learning o porque se encuentran en [repositorios de dominio público](https://archive.ics.uci.edu/ml/index.php)*
+*Nota: Todas las datasets usadas en este curso son de dominio público, bien porque están incluidas en las diferentes librerías y plataformas de estadística y machine learning o porque se encuentran en [repositorios de machine learning open-access](https://archive.ics.uci.edu/ml/index.php).*
 
 Cualquier comentario sobre el curso, podéis escribir a jrasero.daparte@gmail.com
